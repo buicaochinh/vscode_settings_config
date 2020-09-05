@@ -1,6 +1,5 @@
-# vscode_settings_config
-My Visual Studio Code Settings File
----
+# My Visual Studio Code Settings File
+
 
 **Nguồn tham khảo**: https://viblo.asia/p/my-visual-studio-code-naQZRGDAlvx
 
@@ -8,11 +7,9 @@ My Visual Studio Code Settings File
 
 ## Thiết lập dòng 
 ```json
-{ // Thiết lập dòng
-  "editor.lineNumbers": "relative",
-  "editor.renderLineHighlight": "all",
-  "editor.lineHeight": <Number>,
-}
+ "editor.lineNumbers": "relative",
+ "editor.renderLineHighlight": "all",
+ "editor.lineHeight": <number>,
 ```
 
 ## Caret: Thay đổi kiểu nháy con trỏ:
