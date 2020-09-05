@@ -77,3 +77,10 @@
 ```json
 "editor.tabCompletion": true,
 ```
+
+## Tự động lưu tệp khi thay đổi với VS Code
+```json
+"files.autoSave": "afterDelay",
+"files.autoSaveDelay": 1000,
+```
+
