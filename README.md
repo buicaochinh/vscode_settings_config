@@ -1,7 +1,10 @@
 # vscode_settings_config
 My Visual Studio Code Settings File
-**Nguồn tham khảo: ** https://viblo.asia/p/my-visual-studio-code-naQZRGDAlvx
-***
+---
+
+**Nguồn tham khảo**: https://viblo.asia/p/my-visual-studio-code-naQZRGDAlvx
+
+---
 
 ## Thiết lập dòng 
 ```json
