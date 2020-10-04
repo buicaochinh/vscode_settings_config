@@ -1,10 +1,8 @@
 {
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "Atom One Dark",
-  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
   "editor.fontFamily": "'Fira Code', 'Roboto Mono', Consolas",
   "workbench.activityBar.visible": false,
-  // "window.menuBarVisibility": "toggle"
   "editor.fontLigatures": true,
   "editor.fontSize": 14,
   "terminal.integrated.fontSize": 14,
@@ -22,5 +20,5 @@
   "files.autoSaveDelay": 5000,
   "editor.tabSize": 2,
   "editor.formatOnSave": true,
-  "php.validate.executablePath": "D:\\laragon\\bin\\php\\php-7.2.19-Win32-VC15-x64\\php.exe",
+  // "window.menuBarVisibility": "toggle",
 }
